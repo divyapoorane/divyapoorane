@@ -4,7 +4,7 @@
 
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=divyapoorane&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
- 
+  <img src="https://raw.githubusercontent.com/divyapoorane/divyapoorane/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -72,7 +72,7 @@
 ###
 
 <div data-importer="socials" align="left">
-  <a href="www.linkedin.com/in/divyapoorane" target="_blank">
+  <a href="https://www.linkedin.com/in/divyapoorane" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://codepen.io/divvs" target="_blank">
@@ -87,13 +87,30 @@
   <a href="https://instagram.com/divyapoorane" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Visual%20Studio%20Marketplace&logo=visualstudio&label=&color=e2165e&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="visualstudio logo"  />
 </div>
 
 ###
+
+<br clear="both">
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/divyapoorane/divyapoorane/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/divyapoorane/divyapoorane/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/divyapoorane/divyapoorane/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
 </picture>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/divyapoorane/divyapoorane/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/divyapoorane/divyapoorane/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/divyapoorane/divyapoorane/pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture>
+
+###
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=divyapoorane.divyapoorane&"  />
+</div>
+
+###
