@@ -12,8 +12,6 @@
 
 <img data-importer="image" align="right" height="138" src="https://www.bing.com/th/id/OGC.792502d655891b0b4df60cb0c4894a28?o=7&cb=thfc1falcon4&pid=1.7&rm=3&rurl=https%3a%2f%2fwww.gifcen.com%2fwp-content%2fuploads%2f2023%2f11%2fhello-kitty-gif-6.gif&ehk=x7wd90seSBIAiwwMCYR6ID2TGiqaUcx5E3YbNXbaxdM%3d"  />
 
-###
-
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="13" />
@@ -69,8 +67,6 @@
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
 </div>
-
-###
 
 <br clear="both">
 
