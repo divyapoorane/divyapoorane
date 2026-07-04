@@ -4,12 +4,13 @@
 
 ###
 
-<p data-importer="text" align="left">Hi, I'm Divya Poorani R, a Computer Science Engineering undergrad at Amrita Vidya Vishwapeetham, Chennai Campus, driven by curiosity and a passion for technology. I enjoy transforming ideas into practical solutions while continuously expanding my knowledge in programming and software development. Currently, I'm strengthening my skills in Python, Data Structures & Algorithms, C,  Java, HTML5, CSS, JS and Git/GitHub, with a growing interest in  Cybersecurity, Artificial Intelligence, and UI/UX. I'm excited to collaborate, innovate, and contribute to the ever-evolving tech community.</p>
+<h4 data-importer="text" align="left">Hi, I'm Divya Poorani R, a Computer Science Engineering undergrad at Amrita Vidya Vishwapeetham, Chennai Campus, driven by curiosity and a passion for technology. I enjoy transforming ideas into practical solutions while continuously expanding my knowledge in programming and software development. Currently, I'm strengthening my skills in Python, Data Structures & Algorithms, C,  Java, HTML5, CSS, JS and Git/GitHub, with a growing interest in  Cybersecurity, Artificial Intelligence, and UI/UX. I'm excited to collaborate, innovate, and contribute to the ever-evolving tech community.</h4>
 
 ###
 
 <br clear="both">
-<img data-importer="image" align="right" height="125" src="https://www.bing.com/th/id/OGC.792502d655891b0b4df60cb0c4894a28?o=7&cb=thfc1falcon4&pid=1.7&rm=3&rurl=https%3a%2f%2fwww.gifcen.com%2fwp-content%2fuploads%2f2023%2f11%2fhello-kitty-gif-6.gif&ehk=x7wd90seSBIAiwwMCYR6ID2TGiqaUcx5E3YbNXbaxdM%3d"  />
+
+<img data-importer="image" align="right" height="130" src="https://www.bing.com/th/id/OGC.792502d655891b0b4df60cb0c4894a28?o=7&cb=thfc1falcon4&pid=1.7&rm=3&rurl=https%3a%2f%2fwww.gifcen.com%2fwp-content%2fuploads%2f2023%2f11%2fhello-kitty-gif-6.gif&ehk=x7wd90seSBIAiwwMCYR6ID2TGiqaUcx5E3YbNXbaxdM%3d"  />
 
 ###
 
@@ -75,19 +76,14 @@
   <a href="https://www.linkedin.com/in/divyapoorane" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://codepen.io/divvs" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
-  </a>
   <a href="mailto:ch.sc.u4cse25271@ch.students.amrita.edu" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   </a>
   <a href="mailto:rdivyapoorani@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://instagram.com/divyapoorane" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Visual%20Studio%20Marketplace&logo=visualstudio&label=&color=e2165e&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="visualstudio logo"  />
+  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
 </div>
 
 ###
