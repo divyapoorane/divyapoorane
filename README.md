@@ -2,7 +2,6 @@
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=header&reversal=false&text=Hello!&fontSize=60&fontColor=FFFFFF&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
 </div>
-<br clear="both">
 <h3 data-importer="text" align="left">Hi, I'm Divya Poorani R, a Computer Science Engineering undergrad at Amrita Vidya Vishwapeetham, Chennai Campus, driven by curiosity and a passion for technology. I enjoy transforming ideas into practical solutions while continuously expanding my knowledge in programming and software development. Currently, I'm strengthening my skills in Python, Data Structures & Algorithms, C,  Java, HTML5, CSS, JS and Git/GitHub, with a growing interest in  Cybersecurity, Artificial Intelligence, and UI/UX. I'm excited to collaborate, innovate, and contribute to the ever-evolving tech community.</h3>
 
 <br clear="both">
