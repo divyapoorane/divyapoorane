@@ -4,7 +4,7 @@
 
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=divyapoorane&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/divyapoorane/divyapoorane/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+ 
 </div>
 
 ###
@@ -96,10 +96,4 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/divyapoorane/divyapoorane/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/divyapoorane/divyapoorane/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/divyapoorane/divyapoorane/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/divyapoorane/divyapoorane/pacman-output/bomberman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/divyapoorane/divyapoorane/pacman-output/bomberman-contribution-graph.svg">
-  <img alt="Bomberman contribution graph" src="https://raw.githubusercontent.com/divyapoorane/divyapoorane/pacman-output/bomberman-contribution-graph.svg">
 </picture>
