@@ -3,7 +3,7 @@
 </div>
 
 <br clear="both">
-<h4 data-importer="text" align="left">Hi, I'm Divya Poorani R, a Computer Science Engineering undergrad at Amrita Vidya Vishwapeetham, Chennai Campus, driven by curiosity and a passion for technology. I enjoy transforming ideas into practical solutions while continuously expanding my knowledge in programming and software development. Currently, I'm strengthening my skills in Python, Data Structures & Algorithms, C,  Java, HTML5, CSS, JS and Git/GitHub, with a growing interest in  Cybersecurity, Artificial Intelligence, and UI/UX. I'm excited to collaborate, innovate, and contribute to the ever-evolving tech community.</h4>
+<h4 data-importer="text" align="left margin-bottom:8px;">Hi, I'm Divya Poorani R, a Computer Science Engineering undergrad at Amrita Vidya Vishwapeetham, Chennai Campus, driven by curiosity and a passion for technology. I enjoy transforming ideas into practical solutions while continuously expanding my knowledge in programming and software development. Currently, I'm strengthening my skills in Python, Data Structures & Algorithms, C,  Java, HTML5, CSS, JS and Git/GitHub, with a growing interest in  Cybersecurity, Artificial Intelligence, and UI/UX. I'm excited to collaborate, innovate, and contribute to the ever-evolving tech community.</h4>
 
 <br clear="both">
 <img data-importer="image" align="right" height="138" src="https://www.bing.com/th/id/OGC.792502d655891b0b4df60cb0c4894a28?o=7&cb=thfc1falcon4&pid=1.7&rm=3&rurl=https%3a%2f%2fwww.gifcen.com%2fwp-content%2fuploads%2f2023%2f11%2fhello-kitty-gif-6.gif&ehk=x7wd90seSBIAiwwMCYR6ID2TGiqaUcx5E3YbNXbaxdM%3d"  />
