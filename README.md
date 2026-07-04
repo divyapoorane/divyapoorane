@@ -1,20 +1,14 @@
-<h4 data-importer="text" align="left">Hi, I'm <b>Divya Poorani R</b>, a Computer Science Engineering undergraduate at <b>Amrita Vishwa Vidyapeetham, Chennai Campus</b>, driven by curiosity and a passion for technology. I enjoy transforming ideas into practical, real-world solutions while continuously expanding my knowledge in programming and software development. Currently, I'm strengthening my skills in <b>Python, Data Structures & Algorithms, C, Java, HTML5, CSS, JavaScript, and Git/GitHub</b>, with a growing interest in <b>Cybersecurity, Artificial Intelligence, and UI/UX</b>. I believe in continuous learning, building meaningful projects, and embracing new challenges that help me grow as a developer. I'm always excited to collaborate, innovate, and contribute to the ever-evolving tech community.</h4>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=divyapoorane&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-</div>
-
-###
-
-<img data-importer="image" align="right" height="190" src="https://i.pinimg.com/originals/cc/c9/06/ccc90604714937b33d6c823c799c2afe.gif?nii=t" />
-
-###
-
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=100&section=header&reversal=false&text=hello!&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=onedark" />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=50&section=header&reversal=false&text=hello!&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
 </div>
+
+###
+
+<p data-importer="text" align="left">Hi, I'm Divya Poorani R, a Computer Science Engineering undergrad at Amrita Vidya Vishwapeetham -Chennai Campus, driven by curiosity and a passion for technology. I enjoy transforming ideas into practical solutions while continuously expanding my knowledge in programming and software development. Currently, I'm strengthening my skills in Python, Data Structures & Algorithms, C,  Java, HTML5, CSS, JS and Git/GitHub, with a growing interest in  Cybersecurity, Artificial Intelligence, and UI/UX. I'm committed to building meaningful projects that create real-world impact. I'm excited to collaborate, innovate, and contribute to the ever-evolving tech community.</p>
+
+###
+
+<img data-importer="image" align="right" height="100" src="https://i.pinimg.com/originals/cc/c9/06/ccc90604714937b33d6c823c799c2afe.gif?nii=t"  />
 
 ###
 
@@ -97,37 +91,18 @@
 
 ###
 
-
-<div data-importer="socials" align="left">
-  <a href="https://www.linkedin.com/in/divyapoorane" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://codepen.io/divvs" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&color=000000&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  <a href="mailto:ch.sc.u4cse25271@ch.students.amrita.edu">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&color=0078D4&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  <a href="mailto:rdivyapoorani@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://instagram.com/divyapoorane" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-</div>
-
-###
-
 <br clear="both">
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/divyapoorane/divyapoorane/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/divyapoorane/divyapoorane/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-  <img alt="Bomberman contribution graph" src="https://raw.githubusercontent.com/divyapoorane/divyapoorane/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/divyapoorane/divyapoorane/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
 </picture>
 
 ###
 
 <div data-importer="profile-views" align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=divyapoorane.divyapoorane" />
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=divyapoorane.divyapoorane&"  />
 </div>
+
+###
