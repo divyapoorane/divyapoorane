@@ -1,12 +1,18 @@
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hello!&fontSize=70&fontColor=FFFFFF&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
 </div>
+
 ###
+
 <p data-importer="text" align="left">Hi, I'm Divya Poorani R, a Computer Science Engineering undergrad at Amrita Vidya Vishwapeetham, Chennai Campus, driven by curiosity and a passion for technology. I enjoy transforming ideas into practical solutions while continuously expanding my knowledge in programming and software development. Currently, I'm strengthening my skills in Python, Data Structures & Algorithms, C,  Java, HTML5, CSS, JS and Git/GitHub, with a growing interest in  Cybersecurity, Artificial Intelligence, and UI/UX. I'm excited to collaborate, innovate, and contribute to the ever-evolving tech community.</p>
+
 ###
+
 <br clear="both">
 <img data-importer="image" align="right" height="125" src="https://www.bing.com/th/id/OGC.792502d655891b0b4df60cb0c4894a28?o=7&cb=thfc1falcon4&pid=1.7&rm=3&rurl=https%3a%2f%2fwww.gifcen.com%2fwp-content%2fuploads%2f2023%2f11%2fhello-kitty-gif-6.gif&ehk=x7wd90seSBIAiwwMCYR6ID2TGiqaUcx5E3YbNXbaxdM%3d"  />
+
 ###
+
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
