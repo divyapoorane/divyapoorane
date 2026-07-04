@@ -4,12 +4,17 @@
 
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=divyapoorane&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/divyapoorane/divyapoorane/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img data-importer="image" align="right" height="130" src="https://i.pinimg.com/originals/cc/c9/06/ccc90604714937b33d6c823c799c2afe.gif?nii=t"  />
+<img data-importer="image" align="right" height="190" src="https://i.pinimg.com/originals/cc/c9/06/ccc90604714937b33d6c823c799c2afe.gif?nii=t"  />
+
+###
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=100&section=header&reversal=false&text=hello!&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
+</div>
 
 ###
 
@@ -87,6 +92,7 @@
   <a href="https://instagram.com/divyapoorane" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
+  <img src="https://img.shields.io/static/v1?message=Visual%20Studio%20Marketplace&logo=visualstudio&label=&color=e2165e&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="visualstudio logo"  />
 </div>
 
 ###
@@ -97,14 +103,6 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/divyapoorane/divyapoorane/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/divyapoorane/divyapoorane/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/divyapoorane/divyapoorane/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-</picture>
-
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/divyapoorane/divyapoorane/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/divyapoorane/divyapoorane/pacman-output/galaga-contribution-graph.svg?game=galaga">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/divyapoorane/divyapoorane/pacman-output/galaga-contribution-graph.svg?game=galaga">
 </picture>
 
 ###
